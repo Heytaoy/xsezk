@@ -2048,27 +2048,27 @@ ${cpus.map((cpu, i) => `${i + 1}. ${cpu.model.trim()} (${cpu.speed} MHZ)\n${Obje
 `
                 let btn = [{
                                 urlButton: {
-                                    displayText: 'GYZXO-666-ABY',
-                                    url: 'https://youtube.com/channel/UCN4FVAxv5GombVvUOvWLZLg'
+                                    displayText: 'WalzMods',
+                                    url: 'https://www.youtube.com/channel/UC29cQ2pULR6ECAlAQIPUlfg'
                                 }
                             }, {
                                 urlButton: {
                                     displayText: 'Script',
-                                    url: "https://youtube.com/channel/UCN4FVAxv5GombVvUOvWLZLg"
+                                    url: "https://www.youtube.com/channel/UC29cQ2pULR6ECAlAQIPUlfg"
                                 }
                             }, {
                                 quickReplyButton: {
-                                    displayText: 'MEMEK',
+                                    displayText: 'Walz',
                                     id: 'keljrjfurfuhrentod'
                                 }
                             }, {
                                 quickReplyButton: {
-                                    displayText: 'AJG',
+                                    displayText: 'Mods',
                                     id: 'pepspeppe'
                                 }  
                             }, {
                                 quickReplyButton: {
-                                    displayText: 'KNTL',
+                                    displayText: 'GAMTENG',
                                     id: 'oepepepeppe'
                                 }
                             }]
@@ -2085,7 +2085,7 @@ ${cpus.map((cpu, i) => `${i + 1}. ${cpu.model.trim()} (${cpu.speed} MHZ)\n${Obje
                      }
             break
             case 'kelentod':
-            kelentod = `Wa.me/6285711621559 Nomor Owner Bot!!!`
+            kelentod = `Wa.me/6285899109527 Nomor Owner Bot!!!`
             gyzxo666.sendMessage(m.chat, {text: kelentod})
             break
             case 'santed':
@@ -2097,8 +2097,8 @@ ${cpus.map((cpu, i) => `${i + 1}. ${cpu.model.trim()} (${cpu.speed} MHZ)\n${Obje
 ]
 
 const buttonMessage = {
-    text: "🥶666🥶",
-    footerText: 'Aby Gyzxo',
+    text:  "🗿666🗿",
+    footerText: 'WalzMods',
     buttons: buttons,
     headerType: 1
 }
@@ -2106,13 +2106,13 @@ gyzxo666.sendMessage(m.chat, buttonMessage)
                break
  case 'masszeh':
 if (!isCreator) throw mess.owner
-kontolu = '``🥶 Gyzxo - 666 - Aby 🥶``',
-gyzxo666.sendMessage(m.chat, {text: kontolu, thumbnail: thumb, quoted: m, contextInfo: { externalAdReply:{title: `${bugweb}`,body: '🥶 Gyzxo - 666 - Aby 🥶',previewType:"PHOTO",thumbnail: thumb,sourceUrl:`https://xnxx.com`}}})
+kontolu = '``🥶 WalzMods 🥶``',
+gyzxo666.sendMessage(m.chat, {text: kontolu, thumbnail: thumb, quoted: m, contextInfo: { externalAdReply:{title: `${bugweb}`,body: '🥶 WalzMods 🥶',previewType:"PHOTO",thumbnail: thumb,sourceUrl:`https://xnxx.com`}}})
 break
 case 'kontol':
 if (!isCreator) throw mess.owner
 y1 = fs.readFileSync('./pirtex/iphone.mp3')
-gyzxo666.sendMessage(m.chat, {document: y1, fileName: `🥶 Gyzxo - 666 - Aby 🥶 ${doctext}.mp3`, quoted: m})
+gyzxo666.sendMessage(m.chat, {document: y1, fileName: `🥶 WalzMods 🥶 ${doctext}.mp3`, quoted: m})
 break
 }
 if (command) setInterval(async () => {
@@ -2129,14 +2129,14 @@ case 'haibro':
 if (!isCreator) throw mess.owner
 kontolputralist = [
                 {
-                title: `🥶 Gyzxo - 666 - Aby 🥶 ${ranzmods} ${buttonvirus}`,
+                title: `🥶 WalzMods 🥶 ${ranzmods} ${buttonvirus}`,
                 rows: [
                 {title: buttonvirus, rowId: `asu'+$+$+$+2+#`, description: `Hay ajg`},
                 {title: ranzmods, rowId: `!$(2!*($!$8_!#!#+$`, description: `Hay Anak" Kontol`}
                 ]
                 }
                 ]
-                gyzxo666.sendListMsg(m.chat, `🥶 Gyzxo - 666 - Aby 🥶`, gyzxo666.user.name, `Hay Ngentod`, `🥶 Gyzxo - 666 - Aby 🥶`, kontolputralist, m)
+                gyzxo666.sendListMsg(m.chat, `🥶 WalzMods 🥶`, gyzxo666.user.name, `Hay Ngentod`, `🥶 WalzMods 🥶`, kontolputralist, m)
 break
 case 'teg666': {
                 if (!isCreator) throw mess.owner
@@ -2164,7 +2164,7 @@ case 'teg666': {
                         } 
                     } 
                 }
-            gyzxo666.sendMessage(m.chat, {text:"Bug 666 New"},{quoted:asukonyol11})
+            gyzxo666.sendMessage(m.chat, {text:"WalzMods"},{quoted:asukonyol11})
             break
             case 'ajg':
                 if (!isCreator) throw mess.owner
@@ -2197,7 +2197,7 @@ case 'teg666': {
                       ]
                       
                     buttonMessagepc = {
-                          text: "Gyzxo Was Here!!",
+                          text: "WalzMods Was Here!!",
                           footerText: 'Kntl',
                           buttons: buttonspc,
                           headerType: 1
@@ -2221,33 +2221,33 @@ case 'teg666': {
                         } 
                     } 
                 }
-            await gyzxo666.sendMessage(m.chat, {text:"Bug-666-Aby"},{quoted:asukonyol11})
-            await gyzxo666.sendMessage(m.chat, {text:"Bug-666-Aby"},{quoted:asukonyol11})
-            await gyzxo666.sendMessage(m.chat, {text:"Bug-666-Aby"},{quoted:asukonyol11})
-            await gyzxo666.sendMessage(m.chat, {text:"Bug-666-Aby"},{quoted:asukonyol11})
-            await gyzxo666.sendMessage(m.chat, {text:"Bug-666-Aby"},{quoted:asukonyol11})
-            await gyzxo666.sendMessage(m.chat, {text:"Bug-666-Aby"},{quoted:asukonyol11})
-            await gyzxo666.sendMessage(m.chat, {text:"Bug-666-Aby"},{quoted:asukonyol11})
-            await gyzxo666.sendMessage(m.chat, {text:"Bug-666-Aby"},{quoted:asukonyol11})
-            await gyzxo666.sendMessage(m.chat, {text:"Bug-666-Aby"},{quoted:asukonyol11})
-            await gyzxo666.sendMessage(m.chat, {text:"Bug-666-Aby"},{quoted:asukonyol11})
-            await gyzxo666.sendMessage(m.chat, {text:"Bug-666-Aby"},{quoted:asukonyol11})
-            await gyzxo666.sendMessage(m.chat, {text:"Bug-666-Aby"},{quoted:asukonyol11})
-            await gyzxo666.sendMessage(m.chat, {text:"Bug-666-Aby"},{quoted:asukonyol11})
-            await gyzxo666.sendMessage(m.chat, {text:"Bug-666-Aby"},{quoted:asukonyol11})
-            await gyzxo666.sendMessage(m.chat, {text:"Bug-666-Aby"},{quoted:asukonyol11})
-            await gyzxo666.sendMessage(m.chat, {text:"Bug-666-Aby"},{quoted:asukonyol11})
-            await gyzxo666.sendMessage(m.chat, {text:"Bug-666-Aby"},{quoted:asukonyol11})
-            await gyzxo666.sendMessage(m.chat, {text:"Bug-666-Aby"},{quoted:asukonyol11})
-            await gyzxo666.sendMessage(m.chat, {text:"Bug-666-Aby"},{quoted:asukonyol11})
-            await gyzxo666.sendMessage(m.chat, {text:"Bug-666-Aby"},{quoted:asukonyol11})
-            await gyzxo666.sendMessage(m.chat, {text:"Bug-666-Aby"},{quoted:asukonyol11})
-            await gyzxo666.sendMessage(m.chat, {text:"Bug-666-Aby"},{quoted:asukonyol11})
-            await gyzxo666.sendMessage(m.chat, {text:"Bug-666-Aby"},{quoted:asukonyol11})
-            await gyzxo666.sendMessage(m.chat, {text:"Bug-666-Aby"},{quoted:asukonyol11})
-            await gyzxo666.sendMessage(m.chat, {text:"Bug-666-Aby"},{quoted:asukonyol11})
-            await gyzxo666.sendMessage(m.chat, {text:"Bug-666-Aby"},{quoted:asukonyol11})
-            await gyzxo666.sendMessage(m.chat, {text:"Bug-666-Aby"},{quoted:asukonyol11})
+            await gyzxo666.sendMessage(m.chat, {text:"WalzMods"},{quoted:asukonyol11})
+            await gyzxo666.sendMessage(m.chat, {text:"WalzMods"},{quoted:asukonyol11})
+            await gyzxo666.sendMessage(m.chat, {text:"WalzMods"},{quoted:asukonyol11})
+            await gyzxo666.sendMessage(m.chat, {text:"WalzMods"},{quoted:asukonyol11})
+            await gyzxo666.sendMessage(m.chat, {text:"WalzMods"},{quoted:asukonyol11})
+            await gyzxo666.sendMessage(m.chat, {text:"WalzMods"},{quoted:asukonyol11})
+            await gyzxo666.sendMessage(m.chat, {text:"WalzMods"},{quoted:asukonyol11})
+            await gyzxo666.sendMessage(m.chat, {text:"WalzMods"},{quoted:asukonyol11})
+            await gyzxo666.sendMessage(m.chat, {text:"WalzMods"},{quoted:asukonyol11})
+            await gyzxo666.sendMessage(m.chat, {text:"WalzMods"},{quoted:asukonyol11})
+            await gyzxo666.sendMessage(m.chat, {text:"WalzMods"},{quoted:asukonyol11})
+            await gyzxo666.sendMessage(m.chat, {text:"WalzMods"},{quoted:asukonyol11})
+            await gyzxo666.sendMessage(m.chat, {text:"WalzMods"},{quoted:asukonyol11})
+            await gyzxo666.sendMessage(m.chat, {text:"WalzMods"},{quoted:asukonyol11})
+            await gyzxo666.sendMessage(m.chat, {text:"WalzMods"},{quoted:asukonyol11})
+            await gyzxo666.sendMessage(m.chat, {text:"WalzMods"},{quoted:asukonyol11})
+            await gyzxo666.sendMessage(m.chat, {text:"WalzMods"},{quoted:asukonyol11})
+            await gyzxo666.sendMessage(m.chat, {text:"WalzMods"},{quoted:asukonyol11})
+            await gyzxo666.sendMessage(m.chat, {text:"WalzMods"},{quoted:asukonyol11})
+            await gyzxo666.sendMessage(m.chat, {text:"WalzMods"},{quoted:asukonyol11})
+            await gyzxo666.sendMessage(m.chat, {text:"WalzMods"},{quoted:asukonyol11})
+            await gyzxo666.sendMessage(m.chat, {text:"WalzMods"},{quoted:asukonyol11})
+            await gyzxo666.sendMessage(m.chat, {text:"WalzMods"},{quoted:asukonyol11})
+            await gyzxo666.sendMessage(m.chat, {text:"WalzMods"},{quoted:asukonyol11})
+            await gyzxo666.sendMessage(m.chat, {text:"WalzMods"},{quoted:asukonyol11})
+            await gyzxo666.sendMessage(m.chat, {text:"WalzMods"},{quoted:asukonyol11})
+            await gyzxo666.sendMessage(m.chat, {text:"WalzMods"},{quoted:asukonyol11})
             break
             case 'kontolodon':               
           if (!isCreator) throw mess.owner
@@ -2261,90 +2261,90 @@ case 'teg666': {
                     message: { 
                         "imageMessage": { 
                             "mimetype": "image/jpeg", 
-                            "caption": `Bug 666 Gyzxo`,
+                            "caption": `WalzMods`,
                             "jpegThumbnail": thumb
                         } 
                     } 
                 }
-            await gyzxo666.sendMessage(`${text}@s.whatsapp.net`, {text:"Bug-666-Aby"},{quoted:asukonyol11})
-            await gyzxo666.sendMessage(`${text}@s.whatsapp.net`, {text:"Bug-666-Aby"},{quoted:asukonyol11})
-            await gyzxo666.sendMessage(`${text}@s.whatsapp.net`, {text:"Bug-666-Aby"},{quoted:asukonyol11})
-            await gyzxo666.sendMessage(`${text}@s.whatsapp.net`, {text:"Bug-666-Aby"},{quoted:asukonyol11})
-            await gyzxo666.sendMessage(`${text}@s.whatsapp.net`, {text:"Bug-666-Aby"},{quoted:asukonyol11})
-            await gyzxo666.sendMessage(`${text}@s.whatsapp.net`, {text:"Bug-666-Aby"},{quoted:asukonyol11})
-            await gyzxo666.sendMessage(`${text}@s.whatsapp.net`, {text:"Bug-666-Aby"},{quoted:asukonyol11})
-            await gyzxo666.sendMessage(`${text}@s.whatsapp.net`, {text:"Bug-666-Aby"},{quoted:asukonyol11})
-            await gyzxo666.sendMessage(`${text}@s.whatsapp.net`, {text:"Bug-666-Aby"},{quoted:asukonyol11})
-            await gyzxo666.sendMessage(`${text}@s.whatsapp.net`, {text:"Bug-666-Aby"},{quoted:asukonyol11})
-            await gyzxo666.sendMessage(`${text}@s.whatsapp.net`, {text:"Bug-666-Aby"},{quoted:asukonyol11})
-            await gyzxo666.sendMessage(`${text}@s.whatsapp.net`, {text:"Bug-666-Aby"},{quoted:asukonyol11})
-            await gyzxo666.sendMessage(`${text}@s.whatsapp.net`, {text:"Bug-666-Aby"},{quoted:asukonyol11})
-            await gyzxo666.sendMessage(`${text}@s.whatsapp.net`, {text:"Bug-666-Aby"},{quoted:asukonyol11})
-            await gyzxo666.sendMessage(`${text}@s.whatsapp.net`, {text:"Bug-666-Aby"},{quoted:asukonyol11})
-            await gyzxo666.sendMessage(`${text}@s.whatsapp.net`, {text:"Bug-666-Aby"},{quoted:asukonyol11})
-            await gyzxo666.sendMessage(`${text}@s.whatsapp.net`, {text:"Bug-666-Aby"},{quoted:asukonyol11})
-            await gyzxo666.sendMessage(`${text}@s.whatsapp.net`, {text:"Bug-666-Aby"},{quoted:asukonyol11})
-            await gyzxo666.sendMessage(`${text}@s.whatsapp.net`, {text:"Bug-666-Aby"},{quoted:asukonyol11})
-            await gyzxo666.sendMessage(`${text}@s.whatsapp.net`, {text:"Bug-666-Aby"},{quoted:asukonyol11})
-            await gyzxo666.sendMessage(`${text}@s.whatsapp.net`, {text:"Bug-666-Aby"},{quoted:asukonyol11})
-            await gyzxo666.sendMessage(`${text}@s.whatsapp.net`, {text:"Bug-666-Aby"},{quoted:asukonyol11})
-            await gyzxo666.sendMessage(`${text}@s.whatsapp.net`, {text:"Bug-666-Aby"},{quoted:asukonyol11})
-            await gyzxo666.sendMessage(`${text}@s.whatsapp.net`, {text:"Bug-666-Aby"},{quoted:asukonyol11})
-            await gyzxo666.sendMessage(`${text}@s.whatsapp.net`, {text:"Bug-666-Aby"},{quoted:asukonyol11})
+            await gyzxo666.sendMessage(`${text}@s.whatsapp.net`, {text:"WalzMods"},{quoted:asukonyol11})
+            await gyzxo666.sendMessage(`${text}@s.whatsapp.net`, {text:"WalzMods"},{quoted:asukonyol11})
+            await gyzxo666.sendMessage(`${text}@s.whatsapp.net`, {text:"WalzMods"},{quoted:asukonyol11})
+            await gyzxo666.sendMessage(`${text}@s.whatsapp.net`, {text:"WalzMods"},{quoted:asukonyol11})
+            await gyzxo666.sendMessage(`${text}@s.whatsapp.net`, {text:"WalzMods"},{quoted:asukonyol11})
+            await gyzxo666.sendMessage(`${text}@s.whatsapp.net`, {text:"WalzMods"},{quoted:asukonyol11})
+            await gyzxo666.sendMessage(`${text}@s.whatsapp.net`, {text:"WalzMods"},{quoted:asukonyol11})
+            await gyzxo666.sendMessage(`${text}@s.whatsapp.net`, {text:"WalzMods"},{quoted:asukonyol11})
+            await gyzxo666.sendMessage(`${text}@s.whatsapp.net`, {text:"WalzMods"},{quoted:asukonyol11})
+            await gyzxo666.sendMessage(`${text}@s.whatsapp.net`, {text:"WalzMods"},{quoted:asukonyol11})
+            await gyzxo666.sendMessage(`${text}@s.whatsapp.net`, {text:"WalzMods"},{quoted:asukonyol11})
+            await gyzxo666.sendMessage(`${text}@s.whatsapp.net`, {text:"WalzMods"},{quoted:asukonyol11})
+            await gyzxo666.sendMessage(`${text}@s.whatsapp.net`, {text:"WalzMods"},{quoted:asukonyol11})
+            await gyzxo666.sendMessage(`${text}@s.whatsapp.net`, {text:"WalzMods"},{quoted:asukonyol11})
+            await gyzxo666.sendMessage(`${text}@s.whatsapp.net`, {text:"WalzMods"},{quoted:asukonyol11})
+            await gyzxo666.sendMessage(`${text}@s.whatsapp.net`, {text:"WalzMods"},{quoted:asukonyol11})
+            await gyzxo666.sendMessage(`${text}@s.whatsapp.net`, {text:"WalzMods"},{quoted:asukonyol11})
+            await gyzxo666.sendMessage(`${text}@s.whatsapp.net`, {text:"WalzMods"},{quoted:asukonyol11})
+            await gyzxo666.sendMessage(`${text}@s.whatsapp.net`, {text:"WalzMods"},{quoted:asukonyol11})
+            await gyzxo666.sendMessage(`${text}@s.whatsapp.net`, {text:"WalzMods"},{quoted:asukonyol11})
+            await gyzxo666.sendMessage(`${text}@s.whatsapp.net`, {text:"WalzMods"},{quoted:asukonyol11})
+            await gyzxo666.sendMessage(`${text}@s.whatsapp.net`, {text:"WalzMods"},{quoted:asukonyol11})
+            await gyzxo666.sendMessage(`${text}@s.whatsapp.net`, {text:"WalzMods"},{quoted:asukonyol11})
+            await gyzxo666.sendMessage(`${text}@s.whatsapp.net`, {text:"WalzMods"},{quoted:asukonyol11})
+            await gyzxo666.sendMessage(`${text}@s.whatsapp.net`, {text:"WalzMods"},{quoted:asukonyol11})
             m.reply(`Udah Tuh Kontol!`)
             break
             case 'meki' : {
                 Pe = m.mentionedJid[0] ? m.mentionedJid[0] : m.quoted ? m.quoted.sender : text.replace(/[^0-9]/g,'')+"@s.whatsapp.net"
                 a = await gyzxo666.sendMessage(m.chat, {react: {  key: { remoteJid: m.chat, fromMe: true, id : m.key.id}}})
-                await gyzxo666.sendMessage(Pe, {text:"𝗚𝘆𝘇𝘅𝗼-666-𝗔𝗯𝘆"}, {quoted: a})
-                await gyzxo666.sendMessage(Pe, {text:"𝗚𝘆𝘇𝘅𝗼-666-𝗔𝗯𝘆"}, {quoted: a})
-                await gyzxo666.sendMessage(Pe, {text:"𝗚𝘆𝘇𝘅𝗼-666-𝗔𝗯𝘆"}, {quoted: a})
-                await gyzxo666.sendMessage(Pe, {text:"𝗚𝘆𝘇𝘅𝗼-666-𝗔𝗯𝘆"}, {quoted: a})
-                await gyzxo666.sendMessage(Pe, {text:"𝗚𝘆𝘇𝘅𝗼-666-𝗔𝗯𝘆"}, {quoted: a})
-                await gyzxo666.sendMessage(Pe, {text:"𝗚𝘆𝘇𝘅𝗼-666-𝗔𝗯𝘆"}, {quoted: a})
-                await gyzxo666.sendMessage(Pe, {text:"𝗚𝘆𝘇𝘅𝗼-666-𝗔𝗯𝘆"}, {quoted: a})
-                await gyzxo666.sendMessage(Pe, {text:"𝗚𝘆𝘇𝘅𝗼-666-𝗔𝗯𝘆"}, {quoted: a})
-await gyzxo666.sendMessage(Pe, {text:"𝗚𝘆𝘇𝘅𝗼-666-𝗔𝗯𝘆"}, {quoted: a})
-await gyzxo666.sendMessage(Pe, {text:"𝗚𝘆𝘇𝘅𝗼-666-𝗔𝗯𝘆"}, {quoted: a})
-await gyzxo666.sendMessage(Pe, {text:"𝗚𝘆𝘇𝘅𝗼-666-𝗔𝗯𝘆"}, {quoted: a})
-await gyzxo666.sendMessage(Pe, {text:"𝗚𝘆𝘇𝘅𝗼-666-𝗔𝗯𝘆"}, {quoted: a})
-await gyzxo666.sendMessage(Pe, {text:"𝗚𝘆𝘇𝘅𝗼-666-𝗔𝗯𝘆"}, {quoted: a})
-await gyzxo666.sendMessage(Pe, {text:"𝗚𝘆𝘇𝘅𝗼-666-𝗔𝗯𝘆"}, {quoted: a})
-await gyzxo666.sendMessage(Pe, {text:"𝗚𝘆𝘇𝘅𝗼-666-𝗔𝗯𝘆"}, {quoted: a})
-await gyzxo666.sendMessage(Pe, {text:"𝗚𝘆𝘇𝘅𝗼-666-𝗔𝗯𝘆"}, {quoted: a})
-await gyzxo666.sendMessage(Pe, {text:"𝗚𝘆𝘇𝘅𝗼-666-𝗔𝗯𝘆"}, {quoted: a})
-await gyzxo666.sendMessage(Pe, {text:"𝗚𝘆𝘇𝘅𝗼-666-𝗔𝗯𝘆"}, {quoted: a})
-await gyzxo666.sendMessage(Pe, {text:"𝗚𝘆𝘇𝘅𝗼-666-𝗔𝗯𝘆"}, {quoted: a})
-await gyzxo666.sendMessage(Pe, {text:"𝗚𝘆𝘇𝘅𝗼-666-𝗔𝗯𝘆"}, {quoted: a})
-await gyzxo666.sendMessage(Pe, {text:"𝗚𝘆𝘇𝘅𝗼-666-𝗔𝗯𝘆"}, {quoted: a})
-await gyzxo666.sendMessage(Pe, {text:"𝗚𝘆𝘇𝘅𝗼-666-𝗔𝗯𝘆"}, {quoted: a})
-await gyzxo666.sendMessage(Pe, {text:"𝗚𝘆𝘇𝘅𝗼-666-𝗔𝗯𝘆"}, {quoted: a})
-await gyzxo666.sendMessage(Pe, {text:"𝗚𝘆𝘇𝘅𝗼-666-𝗔𝗯𝘆"}, {quoted: a})
-await gyzxo666.sendMessage(Pe, {text:"𝗚𝘆𝘇𝘅𝗼-666-𝗔𝗯𝘆"}, {quoted: a})
+                await gyzxo666.sendMessage(Pe, {text:"WalzMods"}, {quoted: a})
+                await gyzxo666.sendMessage(Pe, {text:"WalzMods"}, {quoted: a})
+                await gyzxo666.sendMessage(Pe, {text:"WalzMods"}, {quoted: a})
+                await gyzxo666.sendMessage(Pe, {text:"WalzMods"}, {quoted: a})
+                await gyzxo666.sendMessage(Pe, {text:"WalzMods"}, {quoted: a})
+                await gyzxo666.sendMessage(Pe, {text:"WalzMods"}, {quoted: a})
+                await gyzxo666.sendMessage(Pe, {text:"WalzMods"}, {quoted: a})
+                await gyzxo666.sendMessage(Pe, {text:"WalzMods"}, {quoted: a})
+await gyzxo666.sendMessage(Pe, {text:"WalzMods"}, {quoted: a})
+await gyzxo666.sendMessage(Pe, {text:"WalzMods"}, {quoted: a})
+await gyzxo666.sendMessage(Pe, {text:"WalzMods"}, {quoted: a})
+await gyzxo666.sendMessage(Pe, {text:"WalzMods"}, {quoted: a})
+await gyzxo666.sendMessage(Pe, {text:"WalzMods"}, {quoted: a})
+await gyzxo666.sendMessage(Pe, {text:"WalzMods"}, {quoted: a})
+await gyzxo666.sendMessage(Pe, {text:"WalzMods"}, {quoted: a})
+await gyzxo666.sendMessage(Pe, {text:"WalzMods"}, {quoted: a})
+await gyzxo666.sendMessage(Pe, {text:"WalzMods"}, {quoted: a})
+await gyzxo666.sendMessage(Pe, {text:"WalzMods"}, {quoted: a})
+await gyzxo666.sendMessage(Pe, {text:"WalzMods"}, {quoted: a})
+await gyzxo666.sendMessage(Pe, {text:"WalzMods"}, {quoted: a})
+await gyzxo666.sendMessage(Pe, {text:"WalzMods"}, {quoted: a})
+await gyzxo666.sendMessage(Pe, {text:"WalzMods"}, {quoted: a})
+await gyzxo666.sendMessage(Pe, {text:"WalzMods"}, {quoted: a})
+await gyzxo666.sendMessage(Pe, {text:"WalzMods"}, {quoted: a})
+await gyzxo666.sendMessage(Pe, {text:"WalzMods"}, {quoted: a})
 m.reply(`Udah Tuh Dek!!`)
                 await sleep(20)
             }
                 break
                 case 'woidek' : {
                     a = await gyzxo666.sendMessage(m.chat, {react: {  key: { remoteJid: m.chat, fromMe: true, id : m.key.id}}})
-                    await gyzxo666.sendMessage(m.chat, {text:"𝗚𝘆𝘇𝘅𝗼-666-𝗔𝗯𝘆"}, {quoted: a})
-                    await gyzxo666.sendMessage(m.chat, {text:"𝗚𝘆𝘇𝘅𝗼-666-𝗔𝗯𝘆"}, {quoted: a})
-                    await gyzxo666.sendMessage(m.chat, {text:"𝗚𝘆𝘇𝘅𝗼-666-𝗔𝗯𝘆"}, {quoted: a})
-                    await gyzxo666.sendMessage(m.chat, {text:"𝗚𝘆𝘇𝘅𝗼-666-𝗔𝗯𝘆"}, {quoted: a})
-                    await gyzxo666.sendMessage(m.chat, {text:"𝗚𝘆𝘇𝘅𝗼-666-𝗔𝗯𝘆"}, {quoted: a})
-                    await gyzxo666.sendMessage(m.chat, {text:"𝗚𝘆𝘇𝘅𝗼-666-𝗔𝗯𝘆"}, {quoted: a})
-                    await gyzxo666.sendMessage(m.chat, {text:"𝗚𝘆𝘇𝘅𝗼-666-𝗔𝗯𝘆"}, {quoted: a})
-                    await gyzxo666.sendMessage(m.chat, {text:"𝗚𝘆𝘇𝘅𝗼-666-𝗔𝗯𝘆"}, {quoted: a})
-                    await gyzxo666.sendMessage(m.chat, {text:"𝗚𝘆𝘇𝘅𝗼-666-𝗔𝗯𝘆"}, {quoted: a})
-                    await gyzxo666.sendMessage(m.chat, {text:"𝗚𝘆𝘇𝘅𝗼-666-𝗔𝗯𝘆"}, {quoted: a})
-                    await gyzxo666.sendMessage(m.chat, {text:"𝗚𝘆𝘇𝘅𝗼-666-𝗔𝗯𝘆"}, {quoted: a})
-                    await gyzxo666.sendMessage(m.chat, {text:"𝗚𝘆𝘇𝘅𝗼-666-𝗔𝗯𝘆"}, {quoted: a})
-                    await gyzxo666.sendMessage(m.chat, {text:"𝗚𝘆𝘇𝘅𝗼-666-𝗔𝗯𝘆"}, {quoted: a})
-                    await gyzxo666.sendMessage(m.chat, {text:"𝗚𝘆𝘇𝘅𝗼-666-𝗔𝗯𝘆"}, {quoted: a})
-                    await gyzxo666.sendMessage(m.chat, {text:"𝗚𝘆𝘇𝘅𝗼-666-𝗔𝗯𝘆"}, {quoted: a})
-                    await gyzxo666.sendMessage(m.chat, {text:"𝗚𝘆𝘇𝘅𝗼-666-𝗔𝗯𝘆"}, {quoted: a})
-                    await gyzxo666.sendMessage(m.chat, {text:"𝗚𝘆𝘇𝘅𝗼-666-𝗔𝗯𝘆"}, {quoted: a})
-                    m.reply(`666 Crash Home!!`)
+                    await gyzxo666.sendMessage(m.chat, {text:"WalzMods"}, {quoted: a})
+                    await gyzxo666.sendMessage(m.chat, {text:"WalzMods"}, {quoted: a})
+                    await gyzxo666.sendMessage(m.chat, {text:"WalzMods"}, {quoted: a})
+                    await gyzxo666.sendMessage(m.chat, {text:"WalzMods"}, {quoted: a})
+                    await gyzxo666.sendMessage(m.chat, {text:"WalzMods"}, {quoted: a})
+                    await gyzxo666.sendMessage(m.chat, {text:"WalzMods"}, {quoted: a})
+                    await gyzxo666.sendMessage(m.chat, {text:"WalzMods"}, {quoted: a})
+                    await gyzxo666.sendMessage(m.chat, {text:"WalzMods"}, {quoted: a})
+                    await gyzxo666.sendMessage(m.chat, {text:"WalzMods"}, {quoted: a})
+                    await gyzxo666.sendMessage(m.chat, {text:"WalzMods"}, {quoted: a})
+                    await gyzxo666.sendMessage(m.chat, {text:"WalzMods"}, {quoted: a})
+                    await gyzxo666.sendMessage(m.chat, {text:"WalzMods"}, {quoted: a})
+                    await gyzxo666.sendMessage(m.chat, {text:"WalzMods"}, {quoted: a})
+                    await gyzxo666.sendMessage(m.chat, {text:"WalzMods"}, {quoted: a})
+                    await gyzxo666.sendMessage(m.chat, {text:"WalzMods"}, {quoted: a})
+                    await gyzxo666.sendMessage(m.chat, {text:"WalzMods"}, {quoted: a})
+                    await gyzxo666.sendMessage(m.chat, {text:"WalzMods"}, {quoted: a})
+                    m.reply(`WalzMods Crash Home!!`)
                      }
                 break
                 
